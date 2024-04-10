@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin-top: 30px;
+    font-family: courier;
+    font-size: 20px;
+    background-color: #fff5e4;
+    color: #ff9494;
+}
+
+button {
+    font-size: 20px;
+    border-radius: 12px;
+    border: 1px solid black;
+    background-color: #ff9494;
+    color: aliceblue;
+    cursor: pointer;
+}
